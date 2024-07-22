@@ -1,0 +1,6 @@
+2024-07-19 17:20:22.065 CET   [16586]LOG:  redirecting log output to logging collector process
+2024-07-19 17:20:22.065 CET   [16586]HINT:  Future log output will appear in directory "log".
+2024-07-19 17:20:27.324 CET   [16633]LOG:  redirecting log output to logging collector process
+2024-07-19 17:20:27.324 CET   [16633]HINT:  Future log output will appear in directory "log".
+2024-07-19 18:05:35.546 CET   [23916]FATAL:  lock file "postmaster.pid" already exists
+2024-07-19 18:05:35.546 CET   [23916]HINT:  Is another postmaster (PID 16586) running in data directory "/home/amina/pg/data"?
